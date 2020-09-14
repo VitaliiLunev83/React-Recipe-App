@@ -1,4 +1,10 @@
+Учебный проект реакт приложения по поиску рецептов. В Поисковой строке на английском нужно набрать название продукта, который хотите приготовить.
+(пример: "Chiken")
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 ## Available Scripts
 
